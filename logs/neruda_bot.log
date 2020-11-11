@@ -1,0 +1,207 @@
+2020-11-09 22:13:52,986 -- 
+Starting run...
+2020-11-09 22:13:52,986 -- Connecting to Mongo.
+2020-11-09 22:14:12,184 -- 
+Starting run...
+2020-11-09 22:14:12,184 -- Connecting to Mongo.
+2020-11-09 22:14:12,187 -- 	Connection established.
+2020-11-09 22:14:13,032 -- Found 32 pages of quotes at URL: https://www.goodreads.com/author/quotes/4026.Pablo_Neruda
+2020-11-09 22:15:02,606 -- Database update complete. Summary of the changes:
+2020-11-09 22:15:02,606 -- 	 Page: 0 - Quotes, Collisions: (30, 30)
+2020-11-09 22:15:02,606 -- 	 Page: 1 - Quotes, Collisions: (30, 30)
+2020-11-09 22:15:02,606 -- 	 Page: 2 - Quotes, Collisions: (30, 30)
+2020-11-09 22:15:02,606 -- 	 Page: 3 - Quotes, Collisions: (30, 30)
+2020-11-09 22:15:02,606 -- 	 Page: 4 - Quotes, Collisions: (30, 30)
+2020-11-09 22:15:02,606 -- 	 Page: 5 - Quotes, Collisions: (30, 30)
+2020-11-09 22:15:02,606 -- 	 Page: 6 - Quotes, Collisions: (30, 30)
+2020-11-09 22:15:02,606 -- 	 Page: 7 - Quotes, Collisions: (30, 30)
+2020-11-09 22:15:02,606 -- 	 Page: 8 - Quotes, Collisions: (30, 30)
+2020-11-09 22:15:02,606 -- 	 Page: 9 - Quotes, Collisions: (30, 30)
+2020-11-09 22:15:02,606 -- 	 Page: 10 - Quotes, Collisions: (30, 30)
+2020-11-09 22:15:02,606 -- 	 Page: 11 - Quotes, Collisions: (30, 30)
+2020-11-09 22:15:02,606 -- 	 Page: 12 - Quotes, Collisions: (30, 30)
+2020-11-09 22:15:02,606 -- 	 Page: 13 - Quotes, Collisions: (30, 30)
+2020-11-09 22:15:02,606 -- 	 Page: 14 - Quotes, Collisions: (30, 30)
+2020-11-09 22:15:02,606 -- 	 Page: 15 - Quotes, Collisions: (30, 30)
+2020-11-09 22:15:02,606 -- 	 Page: 16 - Quotes, Collisions: (30, 30)
+2020-11-09 22:15:02,606 -- 	 Page: 17 - Quotes, Collisions: (30, 30)
+2020-11-09 22:15:02,606 -- 	 Page: 18 - Quotes, Collisions: (30, 30)
+2020-11-09 22:15:02,606 -- 	 Page: 19 - Quotes, Collisions: (30, 30)
+2020-11-09 22:15:02,606 -- 	 Page: 20 - Quotes, Collisions: (30, 30)
+2020-11-09 22:15:02,606 -- 	 Page: 21 - Quotes, Collisions: (30, 30)
+2020-11-09 22:15:02,606 -- 	 Page: 22 - Quotes, Collisions: (30, 30)
+2020-11-09 22:15:02,606 -- 	 Page: 23 - Quotes, Collisions: (30, 30)
+2020-11-09 22:15:02,606 -- 	 Page: 24 - Quotes, Collisions: (30, 30)
+2020-11-09 22:15:02,606 -- 	 Page: 25 - Quotes, Collisions: (30, 30)
+2020-11-09 22:15:02,606 -- 	 Page: 26 - Quotes, Collisions: (30, 30)
+2020-11-09 22:15:02,606 -- 	 Page: 27 - Quotes, Collisions: (30, 30)
+2020-11-09 22:15:02,607 -- 	 Page: 28 - Quotes, Collisions: (30, 29)
+2020-11-09 22:15:02,607 -- 	 Page: 29 - Quotes, Collisions: (30, 30)
+2020-11-09 22:15:02,607 -- 	 Page: 30 - Quotes, Collisions: (30, 30)
+2020-11-09 22:15:02,607 -- 	 Page: 31 - Quotes, Collisions: (4, 4)
+2020-11-09 22:17:15,854 -- 
+Starting run...
+2020-11-09 22:17:15,854 -- Connecting to Mongo.
+2020-11-09 22:17:46,194 -- 
+Starting run...
+2020-11-09 22:17:46,194 -- Connecting to Mongo.
+2020-11-09 22:18:16,267 -- MongoDB instance is not in running state, aborting.
+2020-11-09 22:25:44,984 - [INFO] - Starting run...
+2020-11-09 22:25:44,984 - [DEBUG] - Connecting to Mongo.
+2020-11-09 22:26:15,050 - [ERROR] - MongoDB instance is not in running state, aborting.
+2020-11-09 22:40:51,334 - [INFO] - Starting run...
+2020-11-09 22:40:51,334 - [DEBUG] - Connecting to Mongo.
+2020-11-09 22:40:51,337 - [DEBUG] - 	Connection established.
+2020-11-09 22:40:52,386 - [DEBUG] - Found 32 pages of quotes at URL: https://www.goodreads.com/author/quotes/4026.Pablo_Neruda
+2020-11-09 22:41:41,340 - [INFO] - Database update complete. Summary of the changes:
+2020-11-09 22:41:41,340 - [INFO] - 	 Page: 0 - Quotes, Collisions: (30, 30)
+2020-11-09 22:41:41,340 - [INFO] - 	 Page: 1 - Quotes, Collisions: (30, 30)
+2020-11-09 22:41:41,340 - [INFO] - 	 Page: 2 - Quotes, Collisions: (30, 30)
+2020-11-09 22:41:41,340 - [INFO] - 	 Page: 3 - Quotes, Collisions: (30, 30)
+2020-11-09 22:41:41,340 - [INFO] - 	 Page: 4 - Quotes, Collisions: (30, 30)
+2020-11-09 22:41:41,340 - [INFO] - 	 Page: 5 - Quotes, Collisions: (30, 30)
+2020-11-09 22:41:41,340 - [INFO] - 	 Page: 6 - Quotes, Collisions: (30, 30)
+2020-11-09 22:41:41,340 - [INFO] - 	 Page: 7 - Quotes, Collisions: (30, 30)
+2020-11-09 22:41:41,340 - [INFO] - 	 Page: 8 - Quotes, Collisions: (30, 30)
+2020-11-09 22:41:41,340 - [INFO] - 	 Page: 9 - Quotes, Collisions: (30, 30)
+2020-11-09 22:41:41,340 - [INFO] - 	 Page: 10 - Quotes, Collisions: (30, 30)
+2020-11-09 22:41:41,340 - [INFO] - 	 Page: 11 - Quotes, Collisions: (30, 30)
+2020-11-09 22:41:41,340 - [INFO] - 	 Page: 12 - Quotes, Collisions: (30, 30)
+2020-11-09 22:41:41,340 - [INFO] - 	 Page: 13 - Quotes, Collisions: (30, 30)
+2020-11-09 22:41:41,340 - [INFO] - 	 Page: 14 - Quotes, Collisions: (30, 30)
+2020-11-09 22:41:41,340 - [INFO] - 	 Page: 15 - Quotes, Collisions: (30, 30)
+2020-11-09 22:41:41,340 - [INFO] - 	 Page: 16 - Quotes, Collisions: (30, 30)
+2020-11-09 22:41:41,340 - [INFO] - 	 Page: 17 - Quotes, Collisions: (30, 30)
+2020-11-09 22:41:41,340 - [INFO] - 	 Page: 18 - Quotes, Collisions: (30, 30)
+2020-11-09 22:41:41,340 - [INFO] - 	 Page: 19 - Quotes, Collisions: (30, 30)
+2020-11-09 22:41:41,340 - [INFO] - 	 Page: 20 - Quotes, Collisions: (30, 30)
+2020-11-09 22:41:41,340 - [INFO] - 	 Page: 21 - Quotes, Collisions: (30, 30)
+2020-11-09 22:41:41,341 - [INFO] - 	 Page: 22 - Quotes, Collisions: (30, 30)
+2020-11-09 22:41:41,341 - [INFO] - 	 Page: 23 - Quotes, Collisions: (30, 30)
+2020-11-09 22:41:41,341 - [INFO] - 	 Page: 24 - Quotes, Collisions: (30, 30)
+2020-11-09 22:41:41,341 - [INFO] - 	 Page: 25 - Quotes, Collisions: (30, 30)
+2020-11-09 22:41:41,341 - [INFO] - 	 Page: 26 - Quotes, Collisions: (30, 30)
+2020-11-09 22:41:41,341 - [INFO] - 	 Page: 27 - Quotes, Collisions: (30, 30)
+2020-11-09 22:41:41,341 - [INFO] - 	 Page: 28 - Quotes, Collisions: (30, 30)
+2020-11-09 22:41:41,341 - [INFO] - 	 Page: 29 - Quotes, Collisions: (30, 30)
+2020-11-09 22:41:41,341 - [INFO] - 	 Page: 30 - Quotes, Collisions: (30, 30)
+2020-11-09 22:41:41,341 - [INFO] - 	 Page: 31 - Quotes, Collisions: (4, 4)
+2020-11-09 22:45:20,699 - [INFO] - Starting run...
+2020-11-09 22:45:20,699 - [DEBUG] - Connecting to Mongo.
+2020-11-09 22:45:20,702 - [DEBUG] - 	Connection established.
+2020-11-09 22:45:21,542 - [DEBUG] - Found 32 pages of quotes at URL: https://www.goodreads.com/author/quotes/4026.Pablo_Neruda
+2020-11-09 22:46:11,609 - [INFO] - Database update complete. Summary of the changes:
+2020-11-09 22:46:11,609 - [INFO] - 	 Page: 0 - Quotes, Collisions: (30, 30)
+2020-11-09 22:47:30,612 - [INFO] - Starting run...
+2020-11-09 22:47:30,612 - [DEBUG] - Connecting to Mongo.
+2020-11-09 22:47:30,615 - [DEBUG] - 	Connection established.
+2020-11-09 22:47:31,500 - [DEBUG] - Found 32 pages of quotes at URL: https://www.goodreads.com/author/quotes/4026.Pablo_Neruda
+2020-11-09 22:48:21,342 - [INFO] - Database update complete. Summary of the changes:
+2020-11-09 22:48:21,342 - [INFO] - 	 Page: 0 - Quotes, Collisions: (30, 30)
+2020-11-09 22:48:21,342 - [INFO] - 	 Page: 1 - Quotes, Collisions: (30, 30)
+2020-11-09 22:48:21,342 - [INFO] - 	 Page: 2 - Quotes, Collisions: (30, 30)
+2020-11-09 22:48:21,342 - [INFO] - 	 Page: 3 - Quotes, Collisions: (30, 30)
+2020-11-09 22:48:21,342 - [INFO] - 	 Page: 4 - Quotes, Collisions: (30, 30)
+2020-11-09 22:48:21,342 - [INFO] - 	 Page: 5 - Quotes, Collisions: (30, 30)
+2020-11-09 22:48:21,342 - [INFO] - 	 Page: 6 - Quotes, Collisions: (30, 30)
+2020-11-09 22:48:21,342 - [INFO] - 	 Page: 7 - Quotes, Collisions: (30, 30)
+2020-11-09 22:48:21,342 - [INFO] - 	 Page: 8 - Quotes, Collisions: (30, 30)
+2020-11-09 22:48:21,342 - [INFO] - 	 Page: 9 - Quotes, Collisions: (30, 30)
+2020-11-09 22:48:21,342 - [INFO] - 	 Page: 10 - Quotes, Collisions: (30, 30)
+2020-11-09 22:48:21,342 - [INFO] - 	 Page: 11 - Quotes, Collisions: (30, 30)
+2020-11-09 22:48:21,342 - [INFO] - 	 Page: 12 - Quotes, Collisions: (30, 30)
+2020-11-09 22:48:21,342 - [INFO] - 	 Page: 13 - Quotes, Collisions: (30, 30)
+2020-11-09 22:48:21,342 - [INFO] - 	 Page: 14 - Quotes, Collisions: (30, 30)
+2020-11-09 22:48:21,342 - [INFO] - 	 Page: 15 - Quotes, Collisions: (30, 30)
+2020-11-09 22:48:21,342 - [INFO] - 	 Page: 16 - Quotes, Collisions: (30, 30)
+2020-11-09 22:48:21,342 - [INFO] - 	 Page: 17 - Quotes, Collisions: (30, 30)
+2020-11-09 22:48:21,343 - [INFO] - 	 Page: 18 - Quotes, Collisions: (30, 30)
+2020-11-09 22:48:21,343 - [INFO] - 	 Page: 19 - Quotes, Collisions: (30, 30)
+2020-11-09 22:48:21,343 - [INFO] - 	 Page: 20 - Quotes, Collisions: (30, 30)
+2020-11-09 22:48:21,343 - [INFO] - 	 Page: 21 - Quotes, Collisions: (30, 30)
+2020-11-09 22:48:21,343 - [INFO] - 	 Page: 22 - Quotes, Collisions: (30, 30)
+2020-11-09 22:48:21,343 - [INFO] - 	 Page: 23 - Quotes, Collisions: (30, 30)
+2020-11-09 22:48:21,343 - [INFO] - 	 Page: 24 - Quotes, Collisions: (30, 30)
+2020-11-09 22:48:21,343 - [INFO] - 	 Page: 25 - Quotes, Collisions: (30, 30)
+2020-11-09 22:48:21,343 - [INFO] - 	 Page: 26 - Quotes, Collisions: (30, 30)
+2020-11-09 22:48:21,343 - [INFO] - 	 Page: 27 - Quotes, Collisions: (30, 30)
+2020-11-09 22:48:21,343 - [INFO] - 	 Page: 28 - Quotes, Collisions: (30, 30)
+2020-11-09 22:48:21,343 - [INFO] - 	 Page: 29 - Quotes, Collisions: (30, 30)
+2020-11-09 22:48:21,343 - [INFO] - 	 Page: 30 - Quotes, Collisions: (30, 30)
+2020-11-09 22:48:21,343 - [INFO] - 	 Page: 31 - Quotes, Collisions: (4, 4)
+2020-11-09 22:49:25,348 - [INFO] - Starting run...
+2020-11-09 22:49:25,348 - [DEBUG] - Connecting to Mongo.
+2020-11-09 22:49:25,351 - [DEBUG] - 	Connection established.
+2020-11-09 22:49:26,360 - [DEBUG] - Found 32 pages of quotes at URL: https://www.goodreads.com/author/quotes/4026.Pablo_Neruda
+2020-11-09 22:50:17,108 - [INFO] - Database update complete. Summary of the changes:
+2020-11-09 22:50:17,108 - [INFO] - 	 Page: 0 - Quotes, Collisions: (30, 0)
+2020-11-09 22:50:17,108 - [INFO] - 	 Page: 1 - Quotes, Collisions: (30, 0)
+2020-11-09 22:50:17,108 - [INFO] - 	 Page: 2 - Quotes, Collisions: (30, 0)
+2020-11-09 22:50:17,108 - [INFO] - 	 Page: 3 - Quotes, Collisions: (30, 0)
+2020-11-09 22:50:17,108 - [INFO] - 	 Page: 4 - Quotes, Collisions: (30, 0)
+2020-11-09 22:50:17,108 - [INFO] - 	 Page: 5 - Quotes, Collisions: (30, 0)
+2020-11-09 22:50:17,108 - [INFO] - 	 Page: 6 - Quotes, Collisions: (30, 0)
+2020-11-09 22:50:17,108 - [INFO] - 	 Page: 7 - Quotes, Collisions: (30, 0)
+2020-11-09 22:50:17,108 - [INFO] - 	 Page: 8 - Quotes, Collisions: (30, 0)
+2020-11-09 22:50:17,108 - [INFO] - 	 Page: 9 - Quotes, Collisions: (30, 0)
+2020-11-09 22:50:17,108 - [INFO] - 	 Page: 10 - Quotes, Collisions: (30, 0)
+2020-11-09 22:50:17,108 - [INFO] - 	 Page: 11 - Quotes, Collisions: (30, 0)
+2020-11-09 22:50:17,108 - [INFO] - 	 Page: 12 - Quotes, Collisions: (30, 0)
+2020-11-09 22:50:17,108 - [INFO] - 	 Page: 13 - Quotes, Collisions: (30, 0)
+2020-11-09 22:50:17,108 - [INFO] - 	 Page: 14 - Quotes, Collisions: (30, 0)
+2020-11-09 22:50:17,108 - [INFO] - 	 Page: 15 - Quotes, Collisions: (30, 2)
+2020-11-09 22:50:17,108 - [INFO] - 	 Page: 16 - Quotes, Collisions: (30, 1)
+2020-11-09 22:50:17,108 - [INFO] - 	 Page: 17 - Quotes, Collisions: (30, 0)
+2020-11-09 22:50:17,108 - [INFO] - 	 Page: 18 - Quotes, Collisions: (30, 0)
+2020-11-09 22:50:17,108 - [INFO] - 	 Page: 19 - Quotes, Collisions: (30, 1)
+2020-11-09 22:50:17,108 - [INFO] - 	 Page: 20 - Quotes, Collisions: (30, 0)
+2020-11-09 22:50:17,109 - [INFO] - 	 Page: 21 - Quotes, Collisions: (30, 1)
+2020-11-09 22:50:17,109 - [INFO] - 	 Page: 22 - Quotes, Collisions: (30, 0)
+2020-11-09 22:50:17,109 - [INFO] - 	 Page: 23 - Quotes, Collisions: (30, 1)
+2020-11-09 22:50:17,109 - [INFO] - 	 Page: 24 - Quotes, Collisions: (30, 1)
+2020-11-09 22:50:17,109 - [INFO] - 	 Page: 25 - Quotes, Collisions: (30, 2)
+2020-11-09 22:50:17,109 - [INFO] - 	 Page: 26 - Quotes, Collisions: (30, 0)
+2020-11-09 22:50:17,109 - [INFO] - 	 Page: 27 - Quotes, Collisions: (30, 0)
+2020-11-09 22:50:17,109 - [INFO] - 	 Page: 28 - Quotes, Collisions: (30, 0)
+2020-11-09 22:50:17,109 - [INFO] - 	 Page: 29 - Quotes, Collisions: (30, 0)
+2020-11-09 22:50:17,109 - [INFO] - 	 Page: 30 - Quotes, Collisions: (30, 1)
+2020-11-09 22:50:17,109 - [INFO] - 	 Page: 31 - Quotes, Collisions: (4, 1)
+2020-11-09 22:50:17,109 - [INFO] - There were 923 found during this run.
+2020-11-09 22:57:21,394 - [INFO] - Starting run...
+2020-11-09 22:57:21,394 - [DEBUG] - Connecting to Mongo.
+2020-11-09 22:57:21,404 - [DEBUG] - 	Connection established.
+2020-11-09 22:57:22,550 - [DEBUG] - Found 32 pages of quotes at URL: https://www.goodreads.com/author/quotes/4026.Pablo_Neruda
+2020-11-09 22:58:13,149 - [INFO] - Database update complete. Summary of the changes:
+2020-11-09 22:58:13,149 - [INFO] - 	 Page: 0 - Quotes, Collisions: (30, 30)
+2020-11-09 22:58:13,149 - [INFO] - 	 Page: 1 - Quotes, Collisions: (30, 30)
+2020-11-09 22:58:13,149 - [INFO] - 	 Page: 2 - Quotes, Collisions: (30, 30)
+2020-11-09 22:58:13,150 - [INFO] - 	 Page: 3 - Quotes, Collisions: (30, 30)
+2020-11-09 22:58:13,150 - [INFO] - 	 Page: 4 - Quotes, Collisions: (30, 30)
+2020-11-09 22:58:13,150 - [INFO] - 	 Page: 5 - Quotes, Collisions: (30, 30)
+2020-11-09 22:58:13,150 - [INFO] - 	 Page: 6 - Quotes, Collisions: (30, 30)
+2020-11-09 22:58:13,150 - [INFO] - 	 Page: 7 - Quotes, Collisions: (30, 30)
+2020-11-09 22:58:13,150 - [INFO] - 	 Page: 8 - Quotes, Collisions: (30, 30)
+2020-11-09 22:58:13,150 - [INFO] - 	 Page: 9 - Quotes, Collisions: (30, 30)
+2020-11-09 22:58:13,150 - [INFO] - 	 Page: 10 - Quotes, Collisions: (30, 30)
+2020-11-09 22:58:13,150 - [INFO] - 	 Page: 11 - Quotes, Collisions: (30, 30)
+2020-11-09 22:58:13,150 - [INFO] - 	 Page: 12 - Quotes, Collisions: (30, 30)
+2020-11-09 22:58:13,150 - [INFO] - 	 Page: 13 - Quotes, Collisions: (30, 30)
+2020-11-09 22:58:13,150 - [INFO] - 	 Page: 14 - Quotes, Collisions: (30, 30)
+2020-11-09 22:58:13,150 - [INFO] - 	 Page: 15 - Quotes, Collisions: (30, 30)
+2020-11-09 22:58:13,150 - [INFO] - 	 Page: 16 - Quotes, Collisions: (30, 30)
+2020-11-09 22:58:13,150 - [INFO] - 	 Page: 17 - Quotes, Collisions: (30, 30)
+2020-11-09 22:58:13,150 - [INFO] - 	 Page: 18 - Quotes, Collisions: (30, 30)
+2020-11-09 22:58:13,150 - [INFO] - 	 Page: 19 - Quotes, Collisions: (30, 30)
+2020-11-09 22:58:13,150 - [INFO] - 	 Page: 20 - Quotes, Collisions: (30, 30)
+2020-11-09 22:58:13,150 - [INFO] - 	 Page: 21 - Quotes, Collisions: (30, 30)
+2020-11-09 22:58:13,150 - [INFO] - 	 Page: 22 - Quotes, Collisions: (30, 30)
+2020-11-09 22:58:13,150 - [INFO] - 	 Page: 23 - Quotes, Collisions: (30, 30)
+2020-11-09 22:58:13,150 - [INFO] - 	 Page: 24 - Quotes, Collisions: (30, 30)
+2020-11-09 22:58:13,150 - [INFO] - 	 Page: 25 - Quotes, Collisions: (30, 30)
+2020-11-09 22:58:13,150 - [INFO] - 	 Page: 26 - Quotes, Collisions: (30, 30)
+2020-11-09 22:58:13,150 - [INFO] - 	 Page: 27 - Quotes, Collisions: (30, 30)
+2020-11-09 22:58:13,150 - [INFO] - 	 Page: 28 - Quotes, Collisions: (30, 30)
+2020-11-09 22:58:13,150 - [INFO] - 	 Page: 29 - Quotes, Collisions: (30, 30)
+2020-11-09 22:58:13,150 - [INFO] - 	 Page: 30 - Quotes, Collisions: (30, 30)
+2020-11-09 22:58:13,150 - [INFO] - 	 Page: 31 - Quotes, Collisions: (4, 4)
+2020-11-09 22:58:13,150 - [INFO] - There were 0new quotes found during this run.
