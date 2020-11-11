@@ -3,7 +3,7 @@ import yaml
 from pymongo import MongoClient
 
 # Import credentials
-with open('/home/pavle/projects/twitterbot/files/twitter_secrets.yaml') as credentials_file:
+with open('/home/pavle/projects/twitterbot/secrets/twitter_secrets.yaml') as credentials_file:
     credentials = yaml.load(credentials_file, Loader=yaml.FullLoader)
 
 # Authenticate to Twitter
