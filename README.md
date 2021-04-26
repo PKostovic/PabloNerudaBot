@@ -7,4 +7,3 @@ Test phase is basically complete, next steps are:
 1) Create testing environment around the execution of the scripts
 2) Set up my raspberry pi again
 3) Deploy in a constantly running support structure
-4) 
